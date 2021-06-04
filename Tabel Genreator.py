@@ -1,21 +1,4 @@
 
-# import os
-# filename='C:\PCDCTRkrnMailLogs\Test.txt'
-# nameee=os.path.basename(filename)
-# if (filename.endswith)==nameee:
-    
-#     fdf=filename.find(nameee)
-#     print(fdf)
-# if (filename.endswith)!=nameee:
-#     print('(')
-# for a11 in range(a1):
-#     answer=a*a11+a
-#     a_str_form=str(answer)
-#     print(f'{a} X {a11+1} = {a_str_form}')
-# print(':)')
-# global ansser
-# start webdevlopment.
-       # '''#enachen password generter'''
 from tkinter import *
 root=Tk()
 root.resizable(False,False)
