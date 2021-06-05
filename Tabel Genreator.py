@@ -1,8 +1,8 @@
 
 from tkinter import *
 root=Tk()
-root.resizable(False,False)
-root.title('Multiplaction Table Generator For Your Maths Work (:')
+
+root.title('Multiplaction Table Generator For Your Maths HomeWork')
 table = Text(root,width=35,height=40,font=('Courier'))
 your_tabels=Label(root,text='Your Tables Down Below:',font=('Courier',10))
 def main():
